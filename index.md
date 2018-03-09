@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-title: Welcome to GrimGryphon13's homepage!
+## Welcome to GrimGryphon13's Homepage!
+
 
 You can use the [editor on GitHub](https://github.com/GrimGryphon13/GrimGryphon13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
